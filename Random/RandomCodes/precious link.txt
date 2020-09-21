@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=2Rw2xKBNX9I
+
+while What_to_do < 0 or What_to_do > 5:
+        print("Parece que você escolheu um número que não estava nas opções! Tente novamente.")

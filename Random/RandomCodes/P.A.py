@@ -1,0 +1,5 @@
+a1 = int(input(Qual o primeiro termo da P.A? )
+r = int(input(Qual é a razão da P.A? )
+n = int(input(Qual é o termo que você deseja saber? )
+an = a1 + ((n-1)*r)
+print("O termo da P.A é: ,an.)

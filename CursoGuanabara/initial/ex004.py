@@ -1,0 +1,8 @@
+lux = input('Digite algo: ')
+print('O tipo dessa variável é: ', type(lux))
+print('A variável é um número?', lux.isnumeric())
+print('A variável está toda escrita sem capitalização?', lux.islower())
+print('A variável está toda escrita com capitalização?', lux.isupper())
+print('A variável está espaçada?', lux.isspace())
+print('A variável é alfanumérica?', lux.isalnum())
+print('A variável está capitalizada?', lux.istitle())
